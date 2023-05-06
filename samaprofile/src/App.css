@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+}
+
+.Profile{
+  margin: auto;
+  margin-top: 5px;
+  width: 300px;
+  height: 400px;
+  align-items: center;
+  border-style: double;
+  border-color: brown;
+  border-radius: 15%;
+  
+
+}
+
+.ProfilePhoto
+img{
+  margin-left: 15%;
+  height: 200px;
+  width: 200px;
+
+}
+.FullName{
+  text-align: center;
+  color: whitesmoke;
+  background-color: red;
+  border-radius: 10px;
+  border-style: ridge;
+  margin-top: 7%;
+  font-size: 70%;
+  
+}
+
+ .Adresse{
+  text-align: center;
+  color: white;
+  margin-top: 10%;
+  background-color:brown;
+}
